@@ -17,3 +17,8 @@ Passwword: 11223344abc
 STAFF SYSTEM
 Username: Staff
 Passwword: 11223344abc
+
+
+User Interface:
+Login Page
+<img width="1919" height="864" alt="Image" src="https://github.com/user-attachments/assets/f5fbd984-742a-4609-9186-336ff8d9ca40" />
